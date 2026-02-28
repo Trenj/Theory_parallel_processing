@@ -1,4 +1,3 @@
-// sender.cpp
 #include <windows.h>
 #include <iostream>
 
